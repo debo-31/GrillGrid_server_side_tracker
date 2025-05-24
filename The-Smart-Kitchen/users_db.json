@@ -1,0 +1,27 @@
+{
+  "prekk": {
+    "password": "456",
+    "email": "pre1@gmail.com",
+    "role": "user"
+  },
+  "NOKSHI": {
+    "password": "789",
+    "email": "nok@gmail.com",
+    "role": "user"
+  },
+  "KRITIKA": {
+    "password": "000",
+    "email": "kri@gmail.com",
+    "role": "admin"
+  },
+  "DEVYANI": {
+    "password": "123",
+    "email": "devo@gmail.com",
+    "role": "admin"
+  },
+  "PREKSHA": {
+    "password": "456",
+    "email": "prek@gmail.com",
+    "role": "admin"
+  }
+}
