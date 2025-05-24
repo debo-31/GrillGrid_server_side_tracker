@@ -1,0 +1,33 @@
+{
+  "theme": {
+    "color_scheme": "Classic",
+    "dark_mode": false
+  },
+  "notifications": {
+    "email": true,
+    "sms": false,
+    "resource_alerts": true,
+    "deadlock_warnings": true
+  },
+  "dashboard": {
+    "widgets": [
+      "Resource Usage",
+      "Staff Activity",
+      "Task Progress"
+    ]
+  },
+  "language": {
+    "selected": "Spanish",
+    "units": "Metric"
+  },
+  "accessibility": {
+    "font_size": "Extra Large",
+    "high_contrast": true,
+    "screen_reader": true
+  },
+  "analytics": {
+    "track_efficiency": true,
+    "track_resources": true,
+    "track_staff": true
+  }
+}
